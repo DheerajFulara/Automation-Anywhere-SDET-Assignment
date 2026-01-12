@@ -35,7 +35,7 @@ The project demonstrates a **Cypress-based POM framework** with reusable compone
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/DheerajFulara/automation-anywhere-assignment
+git clone https://github.com/DheerajFulara/Automation-Anywhere-SDET-Assignment
 cd automation-anywhere-assignment
 
 # 2. Install dependencies
