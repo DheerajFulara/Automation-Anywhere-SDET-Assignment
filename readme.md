@@ -1,7 +1,7 @@
 #  Automation Anywhere – SDET Assignment (Cypress POM Framework)
 
 This repository contains the completed assignment for the SDET role at **Automation Anywhere**.  
-The project demonstrates a **Cypress-based POM framework** with reusable components, assertions, and Mocha reporting for the following use cases:
+The project demonstrates a **Cypress-based POM framework** with reusable components, assertions for the following use cases:
 
 ---
 
