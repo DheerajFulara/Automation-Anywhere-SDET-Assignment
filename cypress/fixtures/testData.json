@@ -1,0 +1,15 @@
+{
+  "username": "testuser",
+  "password": "pass123",
+  "botName":"BotByDheeraj",
+  "botNames": ["BotByDheeraj", "BotByDheeraj2", "BotByDheeraj3", "BotByDheeraj4", "BotByDheeraj5"],
+  "bot_message": "Sample Bot msg",
+  "learningInstanceName": "MyLearningInstance",
+  "learningInstance": {
+    "name": "TestLI 123",
+    "description": "This is a test learning instance",
+    "fieldName": "TestField invoice",
+    "fieldLabel": "Test Field Label invoice "
+  },
+  "author": "Dheeraj"
+}
